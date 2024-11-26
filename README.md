@@ -1,6 +1,6 @@
 -  Hi, I’m @JulixFR
 -  I’m currently learning COBOL
--  How to reach me julixtnt@gmail.com
+-  How to reach me business@julianritter.de
 
 
 
