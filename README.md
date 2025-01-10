@@ -1,5 +1,5 @@
 -  Hi, I’m @JulixFR
--  I’m currently learning COBOL
+-  
 -  How to reach me business@julianritter.de
 
 
